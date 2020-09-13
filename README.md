@@ -51,7 +51,7 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/rehutalwar/RBomb
 cd RBomb
 chmod +x RBomb.sh
 ./RBomb.sh
@@ -69,7 +69,7 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/rehutalwar/RBomb
 cd RBomb
 chmod +x RBomb.sh
 sudo bash RBomb.sh
@@ -89,7 +89,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/rehutalwar/RBomb
 cd TBomb
 chmod +x RBomb.sh
 
